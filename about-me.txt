@@ -1,0 +1,7 @@
+Hello GitHub!
+
+My name is Yusuf.
+
+I have started learning Git and GitHub.
+
+This is my first repository.
