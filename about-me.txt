@@ -14,3 +14,5 @@ What I'm learning Full stack SDE :
 - React
 - Node.js
 - MongoDB
+- Express.js
+- PostreSQL
