@@ -14,7 +14,6 @@ I've been learning and practicing the fundamentals of web development, and I'm n
 - CSS3, tailwind CSS
 - JavaScript(ES6+)
 - MERN Stack
-- tailwind
 - PostgreSQL
 - Vector database
 - npm
