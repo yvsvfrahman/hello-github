@@ -5,3 +5,12 @@ My name is Yusuf.
 I have started learning Git and GitHub.
 
 This is my first repository.
+
+What I'm learning Full stack SDE :
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
